@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="figures/mqss_logo.png" alt="MQSS Logo" width="300" />
+</p>
+
 # Munich Quantum Software Stack (MQSS)
 
 **MQSS** (Munich Quantum Software Stack) is a modular, community-driven software ecosystem for hybrid quantum-classical computing, developed under the Munich Quantum Valley (MQV) initiative. It aims to provide a unified, extensible, and efficient interface from high-level quantum applications down to diverse quantum hardware, tightly integrated with classical HPC environments.
