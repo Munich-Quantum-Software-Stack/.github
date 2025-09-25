@@ -63,7 +63,7 @@ Some repositories may contain more fine-grained license or citation files (e.g. 
 
 - Feel free to open issues or PRs in any public repo. 
 - The development of this project is led by [Laura Schulz](mailto:laura.schulz@lrz.de) (LRZ), [Martin Schulz](mailto:martin.w.j.schulz@tum.de) (TUM CAPS), and [Robert Wille](mailto:robert.wille@tum.de) (TUM CDA) on the management side and [Lukas Burgholzer](mailto:lukas.burgholzer@tum.de) (TUM CDA) as well as [Jorge Echavarria](mailto:jorge.echavarria@lrz.de) (LRZ) from the technical side.
-- If you want to contribute to private or in-development parts, feel free to contact the Architecture Review Board (ARB) of the MQSS using this email: [MQSS at Munich-Quantum-Valley.de](emailto:mqss@munich-quantum-valley-de).  
+- If you want to contribute to private or in-development parts, feel free to contact the Architecture Review Board (ARB) of the MQSS using this email: [MQSS at Munich-Quantum-Valley.de](mailto:mqss@munich-quantum-valley-de).  
 - Stay tuned for announcements, workshops, or developer calls via MQV / Munich Quantum Valley channels.  
 - Visit [MQV's *Munich Quantum Software Stack* Official Webpage](https://www.munich-quantum-valley.de/research/research-areas/mqss).
 
