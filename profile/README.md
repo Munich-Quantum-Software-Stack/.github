@@ -1,5 +1,10 @@
 <p align="center">
-  <img src="figures/mqss_logo.png" alt="MQSS Logo" width="300" />
+  <a href="https://mqt.readthedocs.io">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="figures/logo-mqss-dark.svg" width="60%">
+      <img src="figures/logo-mqss-light.svg" width="60%" alt="MQSS Logo">
+    </picture>
+  </a>
 </p>
 
 # Munich Quantum Software Stack (MQSS)
