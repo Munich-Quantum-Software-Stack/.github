@@ -60,6 +60,17 @@ If you use the MQSS or parts thereof in research or production, please cite the 
 
 > Burgholzer, Echavarria, et al. [*"The Munich Quantum Software Stack: Connecting End Users, Integrating Diverse Quantum Technologies, Accelerating HPC"*](https://arxiv.org/abs/2509.02674) (2025).
 
+```bibtex
+@misc{mqss,
+  title        = {{The Munich Quantum Software Stack: Connecting End Users, Integrating Diverse Quantum Technologies, Accelerating HPC}},
+  shorttitle   = {{The Munich Quantum Software Stack}},
+  author       = {Burgholzer, Lukas and Echavarria, Jorge and Hopf, Patrick and Stade, Yannick and Rovara, Damian and Schmid, Ludwig and Kaya, Ercüment and Mete, Burak and Farooqi, Muhammad Nufail and Chung, Minh and De Pascale, Marco and Schulz, Laura and Schulz, Martin and Wille, Robert},
+  year         = 2025,
+  eprint       = {2509.02674},
+  eprinttype   = {arxiv},
+}
+```
+
 Some repositories may contain more fine-grained license or citation files (e.g. `LICENSE`, `CITATION.cff`).
 
 ---
