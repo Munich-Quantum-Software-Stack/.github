@@ -26,10 +26,11 @@ The **Munich Quantum Software Stack (MQSS)** is a modular, community-driven soft
 
 While work is ongoing, some of the key building blocks in MQSS include:
 
-- **QDMI** ([Quantum Device Management Interface](https://munich-quantum-software-stack.github.io/QDMI/)): A low-level interface defining how software tools interact with quantum devices (job submission, constraints, telemetry).
-- **Programming Interfaces** ([MQSS *Adapters* Suite](https://munich-quantum-software-stack.github.io/MQSS-Interfaces/): Bridges to frameworks like Qiskit, PennyLane, and others, allowing users to express quantum algorithms in familiar APIs.  
-- **Compiler / optimization layers** ([MQSS *Passes* Suite](https://munich-quantum-software-stack.github.io/MQSS-Passes-Documentation/mlir/)): Multi-stage compilation pipelines, pass transformations, hardware-specific lowering, and optimizations.  
-- **Device backends / plugins** ([MQSS *QDMI Devices* Suite](https://munich-quantum-software-stack.github.io/MQSS-QDMI-Devices-Suite/)): Modules to integrate particular quantum hardware (superconducting, ion traps, neutral atoms, etc.).
+- **QDMI** ([MQSS *Quantum Device Management Interface*](https://munich-quantum-software-stack.github.io/QDMI/)): A low-level interface defining how software tools interact with quantum devices (job submission, constraints, telemetry).
+- **Programming Interfaces** ([MQSS *Adapters Suite*](https://munich-quantum-software-stack.github.io/MQSS-Interfaces/)): Bridges to frameworks like Qiskit, PennyLane, and others, allowing users to express quantum algorithms in familiar APIs.  
+- **Compiler / optimization layers** ([MQSS *Passes Suite*](https://munich-quantum-software-stack.github.io/MQSS-Passes-Documentation/mlir/)): Multi-stage compilation pipelines, pass transformations, hardware-specific lowering, and optimizations.  
+- **Device backends / plugins** ([MQSS *QDMI Devices Suite*](https://munich-quantum-software-stack.github.io/MQSS-QDMI-Devices-Suite/)): Modules to integrate particular quantum hardware (superconducting, ion traps, neutral atoms, etc.).
+- **Benchmarking** ([MQSS *Benchmarking Framework*](https://github.com/Munich-Quantum-Software-Stack/MQSS-Benchmarking-Framework/)): An automated and reproducible framework designed to unify quantum computing benchmarks across hardware, software, simulators, algorithms, and applications.
 
 ---
 
@@ -40,6 +41,16 @@ While work is ongoing, some of the key building blocks in MQSS include:
 3. To contribute: fork a repo, follow its contributing guidelines (e.g. coding style, tests, documentation).  
 4. Use issues / PRs for discussion, design proposals, bug reports, and feature requests.  
 5. Engage with the community: review others' contributions, propose new modules, open design discussions.
+
+---
+
+## Placing requests
+
+If you want to request a new feature, ask a question, or report a bug to the Benchmarking team, please use the dedicated issue template. Issues opened with this template will automatically create a ticket so the team can triage and schedule work.
+
+- Open a benchmarking request using the template: [Create a benchmarking request](https://github.com/Munich-Quantum-Software-Stack/MQSS-Benchmarking-Framework/issues/new?template=Contact-Benchmarking.yml)
+
+Keep requests focused: include a short description, expected goals, and a use case.
 
 ---
 
