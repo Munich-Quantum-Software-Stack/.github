@@ -2,15 +2,17 @@ name: 'Add new item to "F4-S: Benchmarking team" in "MQSS-management"'
 
 on:
   issues:
-    types: [opened]
+    types:
+      - opened
+      - labeled
 
 jobs:
   add-to-project:
     runs-on: ubuntu-latest
+    
+    if: ${{ contains(github.event.issue.labels.*.name, 'Contact_F4-S') }}
+
     steps:
-      - name: Check label
-        if: contains(github.event.issue.labels.*.name, 'Contact_F4-S')
-        run: echo "Issue has label Contact_F4-S, proceed"
       - name: 'Add to "F4-S: Benchmarking team" in "MQSS-management"'
         uses: actions/add-to-project@v1.0.2
         with:
