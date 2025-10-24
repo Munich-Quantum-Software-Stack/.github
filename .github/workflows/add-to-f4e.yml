@@ -2,15 +2,14 @@ name: 'Add new item to "F4-E: Dashboard team" in "MQSS-management"'
 
 on:
   issues:
-    types: [opened]
+    types: [opened, reopened, labeled]
 
 jobs:
-  add-to-project:
+  add-to-project:    
+    if: ${{ contains(github.event.issue.labels.*.name, 'Contact_F4-E') }}
+    name: Copy issue to MQSS management platform
     runs-on: ubuntu-latest
     steps:
-      - name: Check label
-        if: contains(github.event.issue.labels.*.name, 'Contact_F4-E')
-        run: echo "Issue has label Contact_F4-E, proceed"
       - name: 'Add to "F4-E: Dashboard team" in "MQSS-management"'
         uses: actions/add-to-project@v1.0.2
         with:
