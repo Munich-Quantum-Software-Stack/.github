@@ -2,7 +2,7 @@ name: 'Add new item to "F4-E: Dashboard team" in "MQSS-management"'
 
 on:
   issues:
-    types: [opened, reopened, labeled]
+    types: [labeled]
 
 jobs:
   add-to-project:    
