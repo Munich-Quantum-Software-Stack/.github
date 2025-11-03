@@ -48,8 +48,7 @@ While work is ongoing, some of the key building blocks in MQSS include:
 
 If you want to request a new feature, ask a question, or report a bug to the MQSS team, please use the dedicated issue templates. Issues opened with these templates will automatically create a ticket so the team can triage and schedule work:
 
-- [Create a request for the Dashboard team](https://github.com/Munich-Quantum-Software-Stack/.github/issues/new?template=Contact-Dashboard.yml)
-- [Create a request for the Benchmarking team](https://github.com/Munich-Quantum-Software-Stack/.github/issues/new?template=Contact-Benchmarking.yml)
+- [Create a request for the Benchmarking team](https://github.com/Munich-Quantum-Software-Stack/MQSS-Benchmarking-Framework/issues/new?template=contact_benchmarking.yml)
 
 Keep requests focused: include a short description, expected goals, and a use case.
 
