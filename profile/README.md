@@ -32,6 +32,8 @@ While work is ongoing, some of the key building blocks in MQSS include:
 - **Device backends / plugins** ([MQSS *QDMI Devices Suite*](https://munich-quantum-software-stack.github.io/MQSS-QDMI-Devices-Suite/)): Modules to integrate particular quantum hardware (superconducting, ion traps, neutral atoms, etc.).
 - **Benchmarking** ([MQSS *Benchmarking Framework*](https://github.com/Munich-Quantum-Software-Stack/MQSS-Benchmarking-Framework/)): An automated and reproducible framework designed to unify quantum computing benchmarks across hardware, software, simulators, algorithms, and applications.
 
+If you would like to explore all the publicly available components, you should visit our [Component Catalog](https://munich-quantum-software-stack.github.io/Component-Catalog/)
+
 ---
 
 ## Getting Started
@@ -47,15 +49,24 @@ https://github.com/mdepasca-lrz/MQSS-Benchmarking-Framework/issues/new?template=
 
 ## Placing requests
 
-<!-- If you want to request a new feature, ask a question, or report a bug to the MQSS team, please use the dedicated issue templates. Issues opened with these templates will automatically create a ticket so the team can triage and schedule work: -->
+If you want to request a new feature, ask a question, or report a bug to the MQSS team, please use the dedicated issue templates of the following components:
 
-https://github.com/Munich-Quantum-Software-Stack/MQSS-Benchmarking-Framework/issues
-https://github.com/Munich-Quantum-Software-Stack/MQP-Dashboard-Frontend/issues
+- [Munich Quantum Portal](https://github.com/Munich-Quantum-Software-Stack/MQP-Dashboard-Frontend/issues)
+- [Benchmarking Framework](https://github.com/Munich-Quantum-Software-Stack/MQSS-Benchmarking-Framework/issues)
 
-- [Create a "big" request for the Benchmarking team](https://github.com/Munich-Quantum-Software-Stack/MQSS-Benchmarking-Framework/issues/new?template=contact_benchmarking.yml)
-- [or create this one](https://github.com/mdepasca-lrz/MQSS-Benchmarking-Framework/issues/new?template=contact_benchmarking.yml)
+Each submission creates an issue in the relevant MQSS repository and ensures structured communication with the responsible developers.
 
-Keep requests focused: include a short description, expected goals, and a use case.
+### Advanced requests and contributions
+
+In addition to the general issue-based request mechanism, MQSS offers a dedicated contact pathway for advanced users, project partners, and external developers who are interested in contributing to or extending the Munich Quantum Software Stack.
+
+For these cases, please fill out the following template:
+
+- [Create a request for the Benchmarking team](https://github.com/Munich-Quantum-Software-Stack/MQSS-Benchmarking-Framework/issues/new?template=contact_benchmarking.yml)
+
+Submissions via this template are reviewed directly by the MQSS team and lead to follow-up discussions or joint development activities.
+
+These workflows will be expanded to include additional MQSS components.
 
 ---
 
