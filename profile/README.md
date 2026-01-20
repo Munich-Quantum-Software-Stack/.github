@@ -45,7 +45,6 @@ If you would like to explore all the publicly available components, you should v
 5. Engage with the community: review others' contributions, propose new modules, open design discussions.
 
 ---
-https://github.com/mdepasca-lrz/MQSS-Benchmarking-Framework/issues/new?template=contact_benchmarking.yml
 
 ## Placing requests
 
