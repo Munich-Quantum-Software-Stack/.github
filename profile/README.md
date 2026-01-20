@@ -62,6 +62,7 @@ In addition to the general issue-based request mechanism, MQSS offers a dedicate
 For these cases, please fill out the following template:
 
 - [Create a request for the Benchmarking team](https://github.com/Munich-Quantum-Software-Stack/MQSS-Benchmarking-Framework/issues/new?template=contact_benchmarking.yml)
+- [Create a request for the Munich Quantum Portal Dashboard team](https://github.com/Munich-Quantum-Software-Stack/MQP-Dashboard-Frontend/issues/new?template=contact_mqp_dashboard_frontend.yml)
 
 Submissions via this template are reviewed directly by the MQSS team and lead to follow-up discussions or joint development activities.
 
