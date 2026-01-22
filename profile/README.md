@@ -48,12 +48,9 @@ If you would like to explore all the publicly available components, you should v
 
 ## Placing requests
 
-If you want to request a new feature, ask a question, or report a bug to the MQSS team, please use the dedicated issue templates of the following components:
+If you want to request a new feature, ask a question, or report a bug to the MQSS team, you can open a dedicated issue in all of our public repositories; you can as well, and you are welcome too, join the already existing discussions.
 
-- [Munich Quantum Portal](https://github.com/Munich-Quantum-Software-Stack/MQP-Dashboard-Frontend/issues)
-- [Benchmarking Framework](https://github.com/Munich-Quantum-Software-Stack/MQSS-Benchmarking-Framework/issues)
-
-Each submission creates an issue in the relevant MQSS repository and ensures structured communication with the responsible developers.
+Openinig an issue, or contributing to an existing one, ensures structured communication with the responsible developers.
 
 ### Advanced requests and contributions
 
